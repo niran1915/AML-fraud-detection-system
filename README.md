@@ -316,8 +316,3 @@ Open-source version control system for Data Science and Machine Learning project
 ```
 
 
-```bash
-Author: Robins Yadav
-Data Scientist
-
-```
